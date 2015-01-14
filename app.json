@@ -1,0 +1,9 @@
+{
+  "name": "Webapp Runner",
+  "description": "Java webapp running on Tomcat with sql database",
+  "repository": "https://github.com/ashuto/New_Folder",
+  "website": "http://www.google.com",
+  "logo": "https://tomcat.apache.org/images/tomcat.png",
+  "keywords": ["java", "tomcat"],
+  "addons": []
+}
